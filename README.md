@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hansika</h1>
-<h3 align="center">btech in Artificial Intelligence 🤖 | Future AI Engineer 🚀</h3>
+<h3 align="center">Btech in Artificial Intelligence 🤖 | Future AI Engineer 🚀</h3>
 
 
 ## 🧠 About Me
 
- 🎓 btech Student in Artificial Intelligence  
+ 🎓 Btech Student in Artificial Intelligence  
  🤖 Passionate about AI, Machine Learning & Data Science  
 💡 Interested in building intelligent systems that solve real-world problems  
  📊 Strong foundation in Mathematics & Logical Thinking  
